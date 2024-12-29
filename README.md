@@ -1,15 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Christopher
 
-
-- 🔭 I’m currently working on
-  Some open sources projects
+- 🔭 Currently working on
+  Some personnal projects and contribuiting on some open sources projects  
 - 🌱 I’m currently learning
-  Engineering
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+  Electrical and Mecanichal Engineering as a self-taugh, 
+- 🤔 I’m looking for a intership nearly on september  
+- 💬 Ask me about my routine
 - 😄 Pronouns: He/Him
 
 
