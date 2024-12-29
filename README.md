@@ -1,13 +1,10 @@
-## Hi there 👋, I'm Christopher
+# Hi there 👋, I'm Christopher
 
-- 🔭 Currently working on
-  Some personnal projects and contribuiting on some open sources projects  
-- 🌱 I’m currently learning
-  Electrical and Mecanichal Engineering as a self-taugh, 
-- 🤔 I’m looking for a intership nearly on september  
-- 💬 Ask me about my routine
+- 🔭 Currently working on some personal projects and contributing to open source projects.
+- 🌱 I'm currently learning Electrical and Mechanical Engineering as a self-taught engineer.
+- 🤔 I'm looking for an internship starting around September.
+- 💬 Ask me about my routine!
 - 😄 Pronouns: He/Him
-
 
 <!--
 **bongende/bongende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
