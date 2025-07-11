@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on some personal projects and contributing to open source projects.
 - 🌱 I'm currently learning Electrical and Mechanical Engineering as a self-taught engineer.
-- 🤔 I'm looking for an internship starting around September.
+- 🤔 Always  looking for a way to develop myself maybe an internship.
 - 💬 Ask me about my routine!
 - 😄 Pronouns: He/Him
 
