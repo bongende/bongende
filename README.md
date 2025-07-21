@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on some personal projects and contributing to open source projects.
 - 🌱 I'm currently learning Electrical and Mechanical Engineering as a self-taught engineer.
-- 🤔 Always  looking for a way to develop myself maybe an internship.
+- 🤔 Always  looking for a way to develop myself.
 - 💬 Ask me about my routine!
 - 😄 Pronouns: He/Him
 
